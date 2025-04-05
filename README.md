@@ -1,4 +1,4 @@
-# SHL-Assessment-
+# AI Intern Hiring 2025
 This is an interactive Streamlit web application that allows users to receive personalized SHL assessment recommendations based on either:  A natural language job description, or  A URL link to a job listing.
 
  1.	Input Handling
